@@ -4,4 +4,5 @@
 
 # ESO AdvancedFilters RefinableMaterials
 This filter only shows materials that you can currently refine.
-![Screenshot][Screenshot.png]
+![Screenshot](Screenshot.png)
+*Before and after*
